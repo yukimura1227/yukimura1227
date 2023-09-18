@@ -15,3 +15,7 @@
 | Zenn             | [yukimura1227](https://zenn.dev/1227yukimura)                                               |
 | Twitter          | [@takamura1227](https://twitter.com/takamura1227)                                           |
 | coconala(休止中) | [yukimura1227(休止中)](https://profile.coconala.com/users/19294)                            |
+
+## 詳細情報
+
+[スキル](skills.md)
