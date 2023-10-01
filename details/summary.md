@@ -18,4 +18,5 @@
 
 ## 詳細情報
 
-[スキル](skills.md)
+[スキル](./skills.md)
+[資格](./certifications.md)
