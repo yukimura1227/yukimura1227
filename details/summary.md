@@ -18,5 +18,6 @@
 
 ## 詳細情報
 
-[スキル](./skills.md)
-[資格](./certifications.md)
+- [執筆活動/登壇履歴/自作サービス・ツールなどのアウトプット](./outputs.md)
+- [スキル](./skills.md)
+- [資格](./certifications.md)
