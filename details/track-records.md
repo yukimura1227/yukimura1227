@@ -325,9 +325,13 @@ style 7 fill:#00a ,color:white
 
 <details>
 <summary>
-todo:mockとstorybookとAppRunnerの話
-TODOサマリをここに
+フロントエンド開発の新しい標準構成をStorybookとmock(Prism/Caddy)とOpenAPIで実現するように先導し浸透活動（活動中）
 </summary>
+
+TODO:詳細を記述する
+(Railsで再実装している問題、実装/テストが大変な問題、見た目/インタラクションレビューがやりづらい問題、チームのアサイン状況によってAPIの仕様がボトルネックになって開発が遅くなりがちな問題。を改善)
+(API仕様は、OpenAPIを使ってフロントの人もバックエンドの人もAPI仕様書を双方が更新できるような開発フローを構築。mock(Prism/Caddy)とStorybookを活用し、AppRunnerでいつでも誰でも見れる状態を標準構成にしていった)
+
 </details>
 
 ### Python2で書かれていたレガシーコードのRuby移行(Ruby統一)
