@@ -10,6 +10,9 @@
 
 [![yukimura1227's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yukimura1227&column=-1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 詳細
 
 [詳細はコチラ](details/summary.md)
