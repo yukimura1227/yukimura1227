@@ -14,7 +14,8 @@
 
 ## 登壇履歴(新しい順)
 
-
+- [2024-07-17 EC2のツラみをイミュータブルにして改善した話](https://slidevook.dev/pages/publicVook/?id=3156bc8c-21fe-4075-8d9e-b77fdd21d8b9&uuid=b88b33be-0b16-4e99-831a-be8ff7915d56&suid=9f926d60-40f7-4da2-ae86-4f62ca2f6406)
+  - [【AWS】AWS10分LT会 - vol.4](https://aws-likers.connpass.com/event/322723/presentation/)
 - [2023-08-23 継続的な技術情報アウトプットのすゝめ〜誰でもできる継続のコツ〜](https://slidevook.dev/pages/publicVook/?id=866a3b77-975c-4683-b984-edf58513d736&uuid=b88b33be-0b16-4e99-831a-be8ff7915d56&suid=15638590-df91-4b24-874e-b8cc9e04f180)
   - [エンジニア×メディアミートアップにて](https://ttj-edit.notion.site/b21285eb1b6f4c05ae129871b8886aa3)
 - [2018-02-17 コーディングスキルチェックから就活→実務へ](https://gi-no.github.io/public_documents/20180217_student_event/)
