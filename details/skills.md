@@ -1,166 +1,120 @@
-# スキル
+# スキル一覧
 
 ## プログラミング言語
 
-- Ruby
-  - 2016〜
-- Java
-  - 2008〜2016
-- Javascript
-  - 2016〜
-- Typescript
-  - 2021〜
-- C,C++,Perl
-  - 大学生時代に使っていた
-- SQL
-  - 2008〜
-  - SIer時代にデータ移行プロジェクトに参加し、1年みっちりSQLを組んでいた
+* **Ruby:** (2016年～現在 / 約9年〜)
+* **Java:** (2008年～2016年 / 約8年)
+* **JavaScript:** (2016年～現在 / 約9年〜)
+* **TypeScript:** (2021年～現在 / 約4年〜)
+* **SQL:** (2008年～現在 / 約17年〜)
+    * SIer時代にデータ移行プロジェクトで1年間集中的に使用した経験あり
+* **C, C++, Perl:** (大学時代に使用経験あり)
 
-## サーバサイド
+## サーバーサイド開発
 
-### サーバサイドフレームワーク/ライブラリ
+### フレームワーク / ライブラリ
 
-- Ruby on Rails
-  - 2016〜
-- Struts1系
-  - 2008〜2016
-- Spring
-  - 2011〜2016
-- MyBatis
-  - 2011〜2016
+* **Ruby on Rails:** (2016年～現在 / 約9年〜)
+* **Spring:** (2011年～2016年 / 約5年)
+* **Struts 1系:** (2008年～2016年 / 約8年)
+* **MyBatis:** (2011年～2016年 / 約5年)
 
-## テストフレームワークなど
+### テストフレームワーク
 
-- jUnit(4系)
-  - 2011〜2016
-- Rspec
-  - 2016〜
+* **RSpec:** (2016年～現在 / 約9年〜)
+* **JUnit 4系:** (2011年～2016年 / 約5年)
 
 ### ビルドツール
 
-- Ant
-  - 2008〜2016
-- Maven
-  - 2011〜2016
-- Gradle
-  - 少々
+* **Maven:** (2011年～2016年 / 約5年)
+* **Ant:** (2008年～2016年 / 約8年)
+* **Gradle:** (使用経験あり)
 
-## フロントエンド
+## フロントエンド開発
 
-### フロントエンドフレームワーク/ライブラリ
+### フレームワーク / ライブラリ
 
-- VueJS(2系)
-  - 少々
-- React（17以降）
-  - 2021〜
-- jest
-  - 少々
+* **React (17以降):** (2021年～現在 / 約4年〜)
+* **Vue.js (2系):** (使用経験あり)
+* **Jest:** (テストで使用経験あり)
 
-### ビルドツール/バンドラー
+### ビルドツール / パッケージ管理
 
-- Webpack
-- yarn(1系)
-- npm
-  - 少々
-- pnpm
-  - 少々
+* **Webpack**
+* **Yarn (1系)**
+* **npm:** (使用経験あり)
+* **pnpm:** (使用経験あり)
 
-### CSSフレームワークなど
+### CSS フレームワーク
 
-- UIkit
-  - 少々
-- jootstrap
-  - 少々
+* **Bootstrap:** (使用経験あり)
+* **UIkit:** (使用経験あり)
 
-## インフラ/ミドルウェア/アーキテクチャ
+## インフラ / ミドルウェア / アーキテクチャ
 
-### DataBase
+### データベース
 
-- Oracle 11g時代
-  - 少々
-- MySQL
-  - 5.5
-  - 5.6
-  - 5.7
-  - 8.0
+* **MySQL:** (5.5, 5.6, 5.7, 8.0 の使用経験あり)
+* **Oracle Database:** (11gの使用経験あり)
 
-### AWS
+### クラウド (AWS)
 
-#### コンピューティング
+* **コンピューティング:** EC2, ECS (Fargate), Lambda, AppRunner
+* **ストレージ:** S3
+* **CI/CD:** CodeBuild, CodePipeline
+* **データベース:** RDS
+* **メッセージング:** SQS
+* **コンテナレジストリ:** ECR
+* **監視/可視化:** Managed Service for Grafana
 
-- EC2
-- ECS
-  - FARGATE
-- Lambda
-- AppRunner
+### Infrastructure as Code (IaC)
 
-#### ストレージ
+* **Terraform**
+* **Ansible:**
+    * 未導入状態から既存インフラのコード化を主導した経験あり
+* **Docker**
+* **Vagrant**
+* **Chef:** (使用経験あり)
+* **Puppet:** (使用経験あり)
 
-- S3
+### OS
 
-#### CI/CD
+* **Linux:**
+    * 業務での操作、基本的なトラブルシューティングが可能
 
-- CodeBuild
-- CodePipeline
+### ミドルウェア
 
-#### その他マネージドサービス
+* **Fluentd**
+* **OpenSearch**
+* **Digdag**
 
-- RDS
-- SQS
-- ECR
-- Grafana
+### Platform as a Service (PaaS)
 
-## Infrastructure as Code
+* **Heroku:** (使用経験あり)
 
-- terraform
-- Ansible
-  - 未導入の状態から既に構築手順がわからないインフラを業務の傍らで長期的にコード化した
-- Chef(少々)
-- Puppet(少々)
-- Vagrant
-- Docker
+## 開発支援ツール / 環境
 
-## Platform as a Service
+### CI/CD ツール
 
-- Heroku
+* **CircleCI:** (業務で使用中)
+* **GitHub Actions:** (使用経験あり)
+* **Travis CI:** (個人開発等で使用経験あり)
+    * テスト実行、Electronアプリのパッケージング等で使用
+    * [参考：.travis.yml](https://github.com/yukimura1227/reveal_lightning/blob/development/.travis.yml)
+* **Jenkins:** (使用経験あり)
+* **AppVeyor:** (使用経験あり)
 
-## Linux
+### 監視ツール
 
-- 業務で滞りなく扱える程度
-- 基本的なトラブルシュートはできる程度
+* **Mackerel**
+* **Grafana** (AWS Managed Service含む)
+* **Zabbix:** (使用経験あり)
 
-## CIツール
+### デプロイツール
 
-- CircleCI
-  - 業務で使っている。
-- GitHubActions
-  - 少々
-- TravisCI
-  - 嗜む程度(テスト回して、electronアプリのパッケージングをしたりする程度)
-  - [参考：.travis.yml](https://github.com/yukimura1227/reveal_lightning/blob/development/.travis.yml)
-- Appveyor(少々)
-- Jenkins(少々)
-
-## 監視ツール
-
-- Grafana
-- Mackerel
-- Zabbix
-  - 少々
-
-## その他ミドルウェア
-
-- Fluentd
-- OpenSearch
-- Digdag
-
-## Deployツール
-
-- Capistrano
+* **Capistrano**
 
 ## 開発手法
 
-- ウォーターフォール
-  - 2008/06〜2016/02
-- スクラム
-  - 2016/03〜
+* **スクラム:** (2016年3月～現在)
+* **ウォーターフォール:** (2008年6月～2016年2月)
