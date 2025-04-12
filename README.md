@@ -1,4 +1,4 @@
-# 自己紹介
+# Welcome to my Github! ☺️
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height='192' alt="yukimura1227's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yukimura1227&count_private=true&theme=dracula"/>
