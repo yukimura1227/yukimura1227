@@ -14,17 +14,30 @@
 
 エンジニアリングに関する何でも屋(インフラ,アーキテクチャ〜バックエンド〜フロントエンド全般) / エンジニアリングマネージャー / テックリード / 漫画好き(ジョジョ,キングダム,3月のライオン) / ゲーム好き(風来のシレン,スプラトゥーン) / ヒトカラ好き / 2児の父
 
-## 基本情報
+## Links
 
-| key              | value                                                                                       |
-| ---------------- | ------------------------------------------------------------------------------------------- |
-| Name             | yukimura1227                                                                                |
-| Birth            | 1985                                                                                        |
-| Qiita            | [yukimura1227](https://qiita.com/yukimura1227)                                              |
-| Zenn             | [yukimura1227](https://zenn.dev/1227yukimura)                                               |
-| Twitter          | [@takamura1227](https://twitter.com/takamura1227)                                           |
-| coconala(休止中) | [yukimura1227(休止中)](https://profile.coconala.com/users/19294)                            |
-| Blog             | [挫折から始まるプログラム開発奮闘記(最近更新していない)](http://yukimura1227.blog.fc2.com/) |
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="display: flex; align-items: center;">
+    <a href="https://twitter.com/takamura1227" style="display: flex; align-items: center;">
+      <img src="https://skillicons.dev/icons?i=twitter" alt="twitter:takamura1227" style="width: 2rem; height: 2rem;"/>
+      <span style="margin-left: .5rem;">takamura1227</span>
+    </a>
+  </div>
+
+  <div style="margin-left: 2rem; display: flex; align-items: center;">
+    <a href="https://zenn.dev/1227yukimura" style="display: flex; align-items: center;">
+      <img src="https://badgen.org/img/zenn/1227yukimura/likes?style=plastic" alt="Likes" />
+      <span style="margin-left: .5rem;">Zenn: yukimura1227</span>
+    </a>
+  </div>
+
+  <div style="margin-left: 2rem; display: flex; align-items: center;">
+    <a href="https://qiita.com/yukimura1227" style="display: flex; align-items: center;">
+      <img src="https://badgen.org/img/qiita/yukimura1227/contributions?style=plastic" alt="Contributions" />
+      <span style="margin-left: .5rem;">Qiita: yukimura1227</span>
+    </a>
+  </div>
+</div>
 
 ## 詳細情報
 
