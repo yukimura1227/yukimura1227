@@ -14,6 +14,12 @@
 
 エンジニアリングに関する何でも屋(インフラ,アーキテクチャ〜バックエンド〜フロントエンド全般) / エンジニアリングマネージャー / テックリード / 漫画好き(ジョジョ,キングダム,3月のライオン) / ゲーム好き(風来のシレン,スプラトゥーン) / ヒトカラ好き / 2児の父
 
+## 好んで使う技術/Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vim,github,aws,docker,ts,react,vite,deno,rust" />
+</p>
+
 ## Links
 
 <div style="display: flex; align-items: center; justify-content: center;">
