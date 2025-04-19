@@ -2,7 +2,7 @@
 
 ## 執筆歴
 
-[zenn/1227yukimura](https://zenn.dev/1227yukimura)や[qiita/yukimura1227](https://qiita.com/yukimura1227)や[slidevook.dev](https://slidevook.dev/) を使って情報を発信していることが多いです。
+[zenn](https://zenn.dev/1227yukimura)や[Qiita](https://qiita.com/yukimura1227)や[slidevook.dev](https://slidevook.dev/) を使って情報を発信していることが多いです。
 
 - 私の考え方がわかるような記事たち
   - [みんなで育てるpaizaの開発カルチャー](https://note.com/paiza/n/n786a3d341f24)
@@ -24,12 +24,16 @@
 
 ### Slidevook
 
-総合力を鍛える(Cognito,Amplify,lambda,CloudFront Functions),ためにつくった、Markdownでプレゼン資料が作れるslidev用の、ブラウザで完結する(WASMを利用)エディタ。
+Markdownでプレゼン資料が作れるslidev用の、WASMを活用することで、完全なブラウザ完結で、素早くスライドを公開することができるWebサービス。
 個人的に、Markdownで管理するスライドを好んで利用しており、slidevにハマっていた時代に、楽できるように自作したもの。
 
 [体験用のdemoページ](https://slidevook.dev/pages/demo/)
 [好きだったSlideSha○eが悲しいUXになっていたので、その怒りを糧にSlideの作成・共有サービスを爆誕させた話](https://zenn.dev/1227yukimura/articles/25904233479771)
 [Wasmやモダンフロントエンドを駆使してMarkdownでLT資料を作ってシェアするアプリを作る技術の裏側](https://zenn.dev/1227yukimura/articles/7815832a4ae9fa)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,aws,docker" />
+</p>
 
 ### reveal_lightning
 
@@ -39,13 +43,21 @@ frontendの勉強目的(特にWebpack)で作った、Markdownでプレゼン資�
 [yukimura1227/reveal_lightning](https://github.com/yukimura1227/reveal_lightning)
 [reveal_lightningについて](https://yukimura1227.github.io/try_github_pages/about_reveal_rightning/)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,webpack,electron" />
+</p>
+
 ### librarian
 
 Rails力upの目的で作ったWebアプリ。
 AmazonのURLを伝えると、会社の本として購入してくれる福利厚生があったので、その発注と貸借を管理するためのWebアプリ。
 もともとは、スプレッドシートで管理していて、・発注・貸借の管理が面倒だったのでみんなができるように。自作したもの。
 
-[librarian](https://github.com/yukimura1227/librarian)
+[yukimura1227/librarian](https://github.com/yukimura1227/librarian)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres" />
+</p>
 
 ### mameshiba-slack-bot
 
