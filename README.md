@@ -12,28 +12,26 @@
 
 ## Links
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="display: flex; align-items: center;">
-    <a href="https://twitter.com/takamura1227" style="display: flex; align-items: center;">
-      <img src="https://skillicons.dev/icons?i=twitter" alt="twitter:takamura1227" style="width: 2rem; height: 2rem;"/>
-      <span style="margin-left: .5rem;">takamura1227</span>
-    </a>
-  </div>
+<p>
+  <a href="https://twitter.com/takamura1227">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter:takamura1227" height="16"/>
+    <sup>takamura1227</sup>
+  </a>
+</p>
 
-  <div style="margin-left: 2rem; display: flex; align-items: center;">
-    <a href="https://zenn.dev/1227yukimura" style="display: flex; align-items: center;">
-      <img src="https://badgen.org/img/zenn/1227yukimura/likes?style=plastic" alt="Likes" />
-      <span style="margin-left: .5rem;">Zenn: yukimura1227</span>
-    </a>
-  </div>
+<p>
+  <a href="https://zenn.dev/1227yukimura">
+    <img src="https://badgen.org/img/zenn/1227yukimura/likes?style=plastic" alt="Likes" height="16"/>
+    <sup>Zenn: yukimura1227</sup>
+  </a>
+</p>
 
-  <div style="margin-left: 2rem; display: flex; align-items: center;">
-    <a href="https://qiita.com/yukimura1227" style="display: flex; align-items: center;">
-      <img src="https://badgen.org/img/qiita/yukimura1227/contributions?style=plastic" alt="Contributions" />
-      <span style="margin-left: .5rem;">Qiita: yukimura1227</span>
-    </a>
-  </div>
-</div>
+<p>
+  <a href="https://qiita.com/yukimura1227">
+    <img src="https://badgen.org/img/qiita/yukimura1227/contributions?style=plastic" alt="Contributions" />
+    <sup>Qiita: yukimura1227</sup>
+  </a>
+</p>
 
 ## Stats
 
