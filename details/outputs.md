@@ -27,9 +27,9 @@
 Markdownでプレゼン資料が作れるslidev用の、WASMを活用することで、完全なブラウザ完結で、素早くスライドを公開することができるWebサービス。
 個人的に、Markdownで管理するスライドを好んで利用しており、slidevにハマっていた時代に、楽できるように自作したもの。
 
-[体験用のdemoページ](https://slidevook.dev/pages/demo/)
-[好きだったSlideSha○eが悲しいUXになっていたので、その怒りを糧にSlideの作成・共有サービスを爆誕させた話](https://zenn.dev/1227yukimura/articles/25904233479771)
-[Wasmやモダンフロントエンドを駆使してMarkdownでLT資料を作ってシェアするアプリを作る技術の裏側](https://zenn.dev/1227yukimura/articles/7815832a4ae9fa)
+[体験用のdemoページ](https://slidevook.dev/pages/demo/)  
+[好きだったSlideSha○eが悲しいUXになっていたので、その怒りを糧にSlideの作成・共有サービスを爆誕させた話](https://zenn.dev/1227yukimura/articles/25904233479771)  
+[Wasmやモダンフロントエンドを駆使してMarkdownでLT資料を作ってシェアするアプリを作る技術の裏側](https://zenn.dev/1227yukimura/articles/7815832a4ae9fa)  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,vite,aws,docker" />
@@ -42,7 +42,7 @@ Markdownでプレゼン資料が作れるslidev用の、WASMを活用するこ�
 frontendの勉強目的(特にWebpack)で作った、Markdownでプレゼン資料が作れるreveal.jsの、動作環境つきのElectron製のエディタ。
 個人的に、Markdownで管理するスライドを好んで、利用しており、reveal.jsにハマっていた時代に、楽できるように自作したもの。
 
-[yukimura1227/reveal_lightning](https://github.com/yukimura1227/reveal_lightning)
+[yukimura1227/reveal_lightning](https://github.com/yukimura1227/reveal_lightning)  
 [reveal_lightningについて](https://yukimura1227.github.io/try_github_pages/about_reveal_rightning/)
 
 <p align="center">
