@@ -35,6 +35,8 @@ Markdownでプレゼン資料が作れるslidev用の、WASMを活用するこ�
   <img src="https://skillicons.dev/icons?i=ts,react,vite,aws,docker" />
 </p>
 
+---
+
 ### reveal_lightning
 
 frontendの勉強目的(特にWebpack)で作った、Markdownでプレゼン資料が作れるreveal.jsの、動作環境つきのElectron製のエディタ。
@@ -46,6 +48,8 @@ frontendの勉強目的(特にWebpack)で作った、Markdownでプレゼン資�
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,webpack,electron" />
 </p>
+
+---
 
 ### librarian
 
@@ -59,12 +63,16 @@ AmazonのURLを伝えると、会社の本として購入してくれる福利�
   <img src="https://skillicons.dev/icons?i=ruby,rails,postgres" />
 </p>
 
+---
+
 ### mameshiba-slack-bot
 
 暗黙的なルールだったり、明文化されているものの浸透していない社内ルールをSlackでメンションして教えあっている事象が散見しており、言う側も聴く側もお互いいい気持ちがしていないだろうなと感じたので作ったSlack bot。
 マスタ情報となるスプレッドシートに社内のルールを記載しておき、発信確率を設定しておくと、確率に従って気まぐれに,Slackに周知するbot。
 
 [yukimura1227/mameshiba-slack-bot](https://github.com/yukimura1227/mameshiba-slack-bot)
+
+---
 
 ### jobcan_do_it
 
