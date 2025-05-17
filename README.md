@@ -48,7 +48,7 @@
 
 ## 詳細情報
 
-- [課題解決実績](./details/track-records.md)
+- [課題解決実績](./details/trackRecords/index.md)
 - [執筆活動/登壇履歴/自作サービス・ツールなどのアウトプット](./details/outputs.md)
 - [スキル](./details/skills.md)
 - [資格](./details/certifications.md)
