@@ -7,7 +7,7 @@
 ## 好んで使う技術/Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vim,github,aws,docker,ts,react,vite,deno,rust" />
+  <img src="https://skillicons.dev/icons?i=vim,linux,docker,aws,mysql,ts,react,vite,deno,ruby,rails,git,github,obsidian" />
 </p>
 
 ## Links
