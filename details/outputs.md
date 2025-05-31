@@ -19,6 +19,8 @@
 
 ## 登壇履歴(新しい順)
 
+- 2025-05-23 **初級エンジニアにとって理想の学習ステップとは？**
+   - [【自分アップグレードセミナー】現場で活躍できるIT技術者になるための学習方法とは にて](https://linuc.org/study/seminar/6951/)
 - [2024-10-24 本当にあった怖い体験談](https://yukimura1227-public-slide.vercel.app/slides/20241024_it_engineer_scary_experience_lt/index.html)
    - [【エンジニア限定】本当にあった怖い体験談【オフライン開催】にて](https://connpass.com/event/332893/)
    - 関連記事：[【ITエンジニアLT大会】本当にあった怖い体験談開催レポート！](https://note.com/paiza/n/nbbec2e32d7b0)
