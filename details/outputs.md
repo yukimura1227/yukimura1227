@@ -3,12 +3,12 @@
 ## 執筆歴
 
 <a href="https://zenn.dev/1227yukimura">
-  <img src="https://badgen.org/img/zenn/1227yukimura/likes?style=plastic" alt="Likes" height="16"/>
+  <img src="https://badgen.org/img/zenn/1227yukimura/likes?style=plastic" alt="Likes" height="20" />
   <sup>Zenn: yukimura1227</sup>
 </a>
 、
 <a href="https://qiita.com/yukimura1227">
-  <img src="https://badgen.org/img/qiita/yukimura1227/contributions?style=plastic" alt="Contributions" />
+  <img src="https://badgen.org/img/qiita/yukimura1227/contributions?style=plastic" alt="Contributions" height="20" />
   <sup>Qiita: yukimura1227</sup>
 </a>
 、 <a href="https://slidevook.dev/">slidevook.dev</a> を使って情報を発信していることが多いです。
